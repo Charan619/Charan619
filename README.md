@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![Charan's github stats](https://github-readme-stats.vercel.app/api?username=Charan619)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan619&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Charan619&color=green)
