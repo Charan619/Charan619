@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 [![Charan's github stats](https://github-readme-stats.vercel.app/api?username=Charan619&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://github.com/Charan619/Charan619">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan619&layout=compact&count_private=true&title_color=5853BC&text_color=3C3B3E&icon_color=5853BC&bg_color=fff />
+</a>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan619&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=Charan619&color=blue)
