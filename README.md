@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Charan619/Charan619">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan619&layout=compact&count_private=true&title_color=5853BC&text_color=3C3B3E&icon_color=5853BC&bg_color=fff />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan619&layout=compact&count_private=true />
 </a>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan619&layout=compact)
