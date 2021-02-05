@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Charan619&color=blue)
 
 <p align="center">
-<a href="https://twitter.com/CharanXD/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="CharanXD" height="30" width="30" /></a>
+<a href="https://twitter.com/CharanXD/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"&bg_color=ffffff alt="CharanXD" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/charan-k-r-6b0721152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Charan K R" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/charankr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="charankr" height="30" width="30" /></a>
 <a href="https://instagram.com/krc_swaag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krc_swaag" height="30" width="30" /></a>
