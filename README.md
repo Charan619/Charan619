@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Charan's github stats](https://github-readme-stats.vercel.app/api?username=Charan619&hide=stars)
+<a href="https://github.com/Charan619/Charan619">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan619&layout=compact,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com//Charan619/Charan619">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Charan619&hide=stars&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Charan's GitHub Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan619&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=Charan619&color=blue)
 
