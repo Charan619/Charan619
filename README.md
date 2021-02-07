@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on a couple of DL research projects
-- 🌱 I’m currently learning Deep Learning and Economics
+- 🌱 I’m currently learning Deep Learning, Graph Theory and Economics
 - 👯 I’m looking to collaborate on any interesting Data Science endavour
 - 💬 Ask me about any random topic, I'll usually have something interesting to say xD
 - 😄 Pronouns: he/him
