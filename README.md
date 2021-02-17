@@ -19,7 +19,9 @@
 <a href="https://github.com/Charan619/Charan619">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan619&layout=compact&theme=shades-of-purple" />
 </a>
-
+<a href="https://github.com/Charan619/Certificates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charan619&repo=Certificates&theme=shades-of-purple" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=Charan619&color=blue)
 
