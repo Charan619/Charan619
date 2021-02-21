@@ -13,9 +13,7 @@
 <a href="https://instagram.com/krc_swaag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krc_swaag" height="30" width="30" /></a>
 
 
-<a href="https://github.com//Charan619/Charan619">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Charan619&hide=stars&show_icons=true&line_height=27&count_private=false&theme=shades-of-purple&" alt="Charan's GitHub Stats" />
-</a>
+
 <a href="https://github.com/Charan619/Charan619">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan619&layout=compact&theme=shades-of-purple" />
 </a>
