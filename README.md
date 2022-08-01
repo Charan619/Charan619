@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a couple of NLP and Meta-Learning projects
+- 🔭 I’m currently working on a couple of Cloud and Meta-Learning projects
 - 🌱 I’m trying to learn more about Deep Learning, Software Development and Economics
 - 👯 I’m looking to collaborate on any interesting Data Science endavour
 - 💬 Ask me about any random topic under the sun, I'll usually have something interesting to say xD
