@@ -29,6 +29,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charan619&repo=E-Trader-Hub&theme=shades-of-purple" />
 </a>
 
+<a href="https://github.com/Charan619/Ergonomic-Risk-Assessment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charan619&repo=Ergonomic-Risk-Assessment&theme=shades-of-purple" />
+</a>
+
 
 
 
