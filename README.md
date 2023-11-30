@@ -25,6 +25,9 @@
 
 ## I have pinned a few of my best projects below :)
 
+<a href="https://github.com/Charan619/E-Trader-Hub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charan619&repo=E-Trader-Hub&theme=shades-of-purple" />
+</a>
 
 
 
