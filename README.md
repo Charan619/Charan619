@@ -8,9 +8,9 @@
 - 💬 Ask me about any random topic under the sun, I'll usually have something interesting to say 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to work when it's raining outside 
-- 📫 How to reach me: . <a href="https://www.linkedin.com/in/charan-k-r-6b0721152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Charan K R" height="30" width="30" /></a>
+- 📫 How to reach me: . <a href="https://www.linkedin.com/in/krcharan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Charan K R" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/charankr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="charankr" height="30" width="30" /></a>
-<a href="https://instagram.com/krc_swaag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krc_swaag" height="30" width="30" /></a>
+<a href="https://instagram.com/krcharan_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krc_swaag" height="30" width="30" /></a>
 
 
 
