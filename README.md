@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a couple of Cloud based projects
+- 🔭 I’m currently working on a couple of Full Stack projects
 - 🌱 I’m trying to learn more about Software Development and Machine Learning and Economics
 - 👯 I’m looking to collaborate on any interesting Social-cause centric endeavor
 - 💬 Ask me about any random topic under the sun, I'll usually have something interesting to say 
